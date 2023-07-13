@@ -1,4 +1,4 @@
-# studysession
+# Point Algorithm
 The code in this repository will normalize the price and demand values, dependent on the unit price of the items along with their Percent Shops, respectifully. 
 Once these values are normalized, they are weighted each at 50% and used to determine a point value from 0 - 25, inclusive. 
 The program will also output a new CSV file that contains the new point values.
